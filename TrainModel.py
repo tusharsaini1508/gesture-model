@@ -125,7 +125,7 @@ def realtime_gesture_recognition(model):
 # Main program
 if __name__ == "__main__":
     # Step 1: Collect data for gestures
-    gestures = ["open_hand", "fist", "thumbs_up", "heart_sign","finger crossed","pointing","thumbs_down","v_sign","peace sign","one", "two", "three", "four", "five", "six", "seven", "eight", "nine", "ten", ]
+    gestures = ["one", "two", "three", "four"]
     all_data = []
     all_labels = []
 
